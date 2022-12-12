@@ -1,0 +1,42 @@
+body{ 
+    background-color: rebeccapurple;
+    }
+
+  header{
+    text-align: center
+  } 
+
+  nav{
+    height: 600px;
+    width: 120px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+  }
+
+  footer{
+    text-align: center;
+  }
+  a:link {
+    color: rgb(38, 0, 128);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
